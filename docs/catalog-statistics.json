@@ -7,14 +7,14 @@
     "free-saas": 5,
     "open-core": 114,
     "oss": 934,
-    "source-available": 24,
-    "unknown": 92
+    "source-available": 25,
+    "unknown": 91
   },
   "statuses": {
-    "active": 610,
+    "active": 619,
     "archived": 10,
     "deprecated": 2,
     "historical": 2,
-    "needs-review": 800
+    "needs-review": 791
   }
 }
