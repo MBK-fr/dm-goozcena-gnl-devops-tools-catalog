@@ -97,7 +97,7 @@
 - [Cyclonus](https://github.com/mattfenwick/cyclonus) — Kubernetes network policy testing tool.
 - [Cypress](https://www.cypress.io) — End-to-end testing for web applications.
 - [Dagger](https://dagger.io) — CI/CD as code toolkit.
-- [Darkmoon](https://dark-moon.org/) — Open source autonomous AI penetration testing platform where an LLM orchestrates specialist agents and offensive tools, can run on a local model, and exports SARIF and JSON findings.
+- [Darkmoon](https://dark-moon.org/) — Self-hosted AI penetration-testing platform that orchestrates specialist agents, supports local or cloud LLMs, and produces JSON findings with SARIF available through integrations.
 - [Deep Agents](https://github.com/langchain-ai/deepagents) — Agent harness with tool execution, context management, persistence, and sandbox integration built on LangGraph.
 - [DeepEval](https://deepeval.com/) — Local-first framework for evaluating and regression-testing LLM applications, agents, RAG pipelines, and MCP systems.
 - [DefectDojo](https://www.defectdojo.com/) — Application security posture and vulnerability-management platform that ingests findings from many scanners.
@@ -258,6 +258,7 @@
 - [Palo Alto Cortex Cloud](https://www.paloaltonetworks.com/cortex/cloud) — Cloud-native security operations platform.
 - [Parrot Security](https://www.parrotsec.org/) — Security-oriented Linux distribution for penetration testing, digital forensics, and privacy.
 - [Paseo](https://paseo.sh/) — Interface for accessing coding agents running on a development machine from other devices.
+- [Pavois](https://pavois.dev) — Linux compliance scanner and hardening tool that evaluates effective runtime configuration, maps controls across major standards, and applies reviewable remediation through CINC/InSpec and Chef.
 - [PEASS-ng](https://github.com/peass-ng/PEASS-ng) — Security assessment script suite for identifying local privilege-escalation exposure on supported systems.
 - [PenTest Toolkit Pro](https://github.com/Cyber-Autopsie/PenTest-Toolkit-Pro) — Offline HTML toolkit for pentest checklists, audits, reporting, and action plans.
 - [pfSense](https://www.pfsense.org) — Open-source firewall and router platform.
@@ -326,7 +327,6 @@
 - [Suricata](https://suricata.io) — High-performance network IDS, IPS, and threat detection engine.
 - [Syft](https://github.com/anchore/syft) — Generate SBOMs for containers and filesystems.
 - [Sysdig Secure](https://www.sysdig.com/) — Commercial cloud-native application protection platform for runtime detection, vulnerability, posture, and entitlement risk.
-- [SysWarden](https://www.syswarden.io) — Firewall orchestration platform that applies blocklists, GeoIP, ASN, and security integrations to block malicious traffic.
 - [Tabby](https://www.tabbyml.com) — Self-hosted AI coding assistant.
 - [Tabby (Terminal)](https://tabby.sh) — Cross-platform terminal emulator with built-in SSH, serial, and theming/plugins.
 - [Tailscale](https://tailscale.com) — Zero-config VPN for secure networking; OSS client with commercial/SaaS control plane (self-hosting via Headscale available).
